@@ -1,6 +1,6 @@
 # Chicken Head (postiranyue portkue edition)
 
-Chicken Head - программа для WINDOWS (для версий выше XP, на XP может не запуститься/траблы, но я не проверял). 
+Chicken Head - программа с интуитивно понятным графическим интерфейсом для WINDOWS (для версий выше XP, на XP может не запуститься/траблы, но я не проверял). 
 Генерирует bitcoin private key (WIF) и проверки public key на валидность (так же есть полтора инструмента).
 Написано на С# windows forms .NET Framework 4.7.1.
 
